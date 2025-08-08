@@ -37,9 +37,9 @@ I enjoy building AI models, automating workflows, analyzing data, and exploring 
 
 ## 📊 GitHub Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SathishK-official&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SathishK-official&layout=compact&theme=radical)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SathishK-official&theme=react-dark)
 
 ---
 
