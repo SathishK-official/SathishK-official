@@ -1,8 +1,8 @@
-# 👋 Hey, I'm Vijay M
+# 👋 Hey, I'm SATHISH KRISHNAMOORTHI
 
 💻 **Final-year B.Tech AI & Data Science Student**  
 🚀 Aspiring **AI Developer** & **Cybersecurity Enthusiast**  
-📍 From Tamil Nadu, India
+📍 From ,India
 
 ---
 
