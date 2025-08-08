@@ -1,16 +1,16 @@
-## Hi there 👋
+# Sathish K — AI & Data Science 🎯
 
-<!--
-**SathishK-official/SathishK-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year B.Tech (AI & DS). Passionate about building ML projects that solve real problems.
 
-Here are some ideas to get you started:
+- 🔭 Currently building: Object Detection app (PyTorch)
+- 🌱 Learning: Docker & Model Deployment
+- 💬 Contact: sathishkrishnamoorthi.contact@gmail.com | [LinkedIn](https://www.linkedin.com/in/sathish-k-6a9284331)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Python • PyTorch • NumPy • OpenCV • Flask • SQL • Git
+
+## Featured Projects
+- [Project A](https://github.com/yourrepo) — Short one-line what it does.
+- [Project B](https://github.com/yourrepo) — Short one-line what it does.
+
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=SathishK-official&show_icons=true)
