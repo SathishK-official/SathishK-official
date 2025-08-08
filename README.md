@@ -2,7 +2,7 @@
 
 💻 **Final-year B.Tech AI & Data Science Student**  
 🚀 Aspiring **AI Developer** & **Cybersecurity Enthusiast**  
-📍 From ,India
+📍 From Tamilnadu, India
 
 ---
 
