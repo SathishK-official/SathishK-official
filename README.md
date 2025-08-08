@@ -1,4 +1,4 @@
-# 👋 Hey, I'm SATHISH KRISHNAMOORTHI
+# I'm SATHISH KRISHNAMOORTHI
 
 💻 **Final-year B.Tech AI & Data Science Student**  
 🚀 Aspiring **AI Developer** & **Cybersecurity Enthusiast**  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Myself
 I'm passionate about **Artificial Intelligence**, **Data Science**, and **Cybersecurity**.  
 I enjoy building AI models, automating workflows, analyzing data, and exploring penetration testing tools.  
 
@@ -53,7 +53,7 @@ I enjoy building AI models, automating workflows, analyzing data, and exploring 
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathish-k-6a9284331)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%20sathishkrishnamoorthi-lnkin)  
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourGitHubUsername)
 
 ---
