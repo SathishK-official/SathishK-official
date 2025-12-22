@@ -5,7 +5,7 @@
 ### AI / ML Engineer · LLM & RAG Systems · NLP Applications
 
 📍 Tamil Nadu, India
-🎓 Final-Year B.Tech – Artificial Intelligence & Data Science (Anna University)
+🎓 B.Tech – Artificial Intelligence & Data Science (Anna University)
 
 </div>
 
