@@ -1,15 +1,15 @@
 👨‍💻 SATHISH KRISHNAMOORTHI
 AI · LLM · RAG · NLP Engineer
-<p align="center"> <img src="https://img.shields.io/badge/LLM-RAG-purple?style=for-the-badge"/> <img src="https://img.shields.io/badge/NLP-AI-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Anna%20University-AI%20%26%20DS-green?style=for-the-badge"/> </p>
-⚡ What I Build (1-Glance Visual)
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A5FFF&center=true&vCenter=true&width=600&lines=Building+LLM+%26+RAG+Systems;AI+to+Production+Engineering;Document+%26+Knowledge+Intelligence" /> </p> <p align="center"> <img src="https://img.shields.io/badge/LLM-RAG-purple"/> <img src="https://img.shields.io/badge/NLP-Semantic_Search-blue"/> <img src="https://img.shields.io/badge/AI-Production-green"/> </p>
+⚡ What I Build (REAL Diagram)
 flowchart LR
-    Data[Docs · Text · Video] --> Embed[Embeddings]
-    Embed --> Search[Vector Search]
-    Search --> RAG[RAG Engine]
-    RAG --> LLM[LLM]
-    LLM --> Output[Grounded Answers]
+    A[Docs / Text / Video] --> B[Embeddings]
+    B --> C[Vector Search]
+    C --> D[RAG Engine]
+    D --> E[LLM]
+    E --> F[Grounded Answers]
 
-🧠 Skill Stack (Visual Map)
+🧠 Skill Stack (Visual Mindmap)
 mindmap
   root((AI))
     ML
@@ -25,7 +25,7 @@ mindmap
       Prompting
       RAG
 
-📊 Engineering Depth (Animated Signal)
+📈 Engineering Growth Signal (Graph)
 graph TD
     Python --> ML
     ML --> DL
@@ -34,7 +34,7 @@ graph TD
     LLM --> RAG
     RAG --> Production
 
-📚 RAG Systems — Architecture Snapshot
+📚 RAG System Architecture
 flowchart TD
     Docs --> Chunking
     Chunking --> Embeddings
@@ -43,15 +43,15 @@ flowchart TD
     Retriever --> LLM
 
 
-Stacks: LangChain · FAISS · Chroma · HF
+Stack: LangChain · FAISS · Chroma · HuggingFace
 
-🚀 AI → Production
-graph LR
-    Model --> API[FastAPI]
-    API --> App[Streamlit]
-    App --> Deploy[Docker]
+🚀 AI → Production Flow
+flowchart LR
+    Model --> FastAPI
+    FastAPI --> Streamlit
+    Streamlit --> Docker
 
-🔮 Active & Planned Systems (Visual Only)
+🔮 Systems I’m Building (Visual Graph)
 graph TD
     DocuMind --> RAG
     CareerGPT --> NLP
@@ -59,20 +59,24 @@ graph TD
     YouTubeRAG --> VideoUnderstanding
     ContentAI --> EngagementOptimization
 
-📈 Impact Focus
+📊 Impact Focus (Chart)
 pie
-    title System Goals
+    title System Design Priorities
     "Accuracy" : 40
     "Scalability" : 30
     "Latency" : 20
     "UX" : 10
 
 🛠 Workflow
-graph LR
+flowchart LR
     Code --> Experiment --> Version --> Document --> Deploy
 
+📊 Live GitHub Stats (ANIMATED SVG)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sathishk&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathishk&theme=tokyonight" /> </p>
 📫 Connect
 <p align="center"> <a href="mailto:sathishkrishnamoorthi.contact@gmail.com">📧 Email</a> • <a href="https://linkedin.com/in/sathishkrishnamoorthi-lnkin">💼 LinkedIn</a> • <a href="https://github.com/sathishk">💻 GitHub</a> </p>
 <div align="center">
-⭐ Minimal Text · Maximum Signal · Recruiter-Optimized
+
+⭐ Minimal Text · REAL Visuals · GitHub-Compatible
+
 </div>
