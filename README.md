@@ -76,9 +76,20 @@ I enjoy working close to the full stack of an AI application: designing the pipe
 **Work Mode:** Remote / Hybrid / On-site
 **Availability:** Immediate
 
+</div>
+
 ---
 
-<img src="https://komarev.com/ghpvc/?username=SathishK-official&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SathishK-official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SathishK-official&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SathishK-official&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="850"/>
 
 </div>
 
