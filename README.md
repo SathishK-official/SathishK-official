@@ -63,7 +63,7 @@ I enjoy working close to the full stack of an AI application: designing the pipe
 <a href="http://www.linkedin.com/in/sathishkrishnamoorthi-lnkin">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/SathishK-official">
+<a href="https://github.com/sathishkrishnamoorthi-official">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -84,12 +84,12 @@ I enjoy working close to the full stack of an AI application: designing the pipe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SathishK-official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SathishK-official&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sathishkrishnamoorthi-official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sathishkrishnamoorthi-official&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SathishK-official&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="850"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathishkrishnamoorthi-official&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="850"/>
 
 </div>
 
