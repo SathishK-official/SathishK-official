@@ -84,8 +84,6 @@ I enjoy working close to the full stack of an AI application: designing the pipe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sathishkrishnamoorthi-official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sathishkrishnamoorthi-official&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
 <br/>
 
